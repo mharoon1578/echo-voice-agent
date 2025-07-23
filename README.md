@@ -3,7 +3,7 @@
 
 Echo is a sarcastic, classy voice assistant built with [LiveKit Agents](https://docs.livekit.io/agents/) and Google's real-time voice model. It responds in one-liners, fetches live weather data, searches the web, and interacts with you — just like a personal butler with an attitude.
 
-Demo on my LinkedIn Account [Demo Here](linkhere) 
+Demo on my LinkedIn Account [Demo Here](https://www.linkedin.com/posts/muhammad-haroon-a097a9342_justbuiltthis-voiceai-aiprojects-activity-7353857414342877185-ibDm/) 
 
 ---
 
