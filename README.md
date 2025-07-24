@@ -106,7 +106,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
-- 🔗 GitHub Repo: [github.com/yourusername/echo-voice-agent](https://github.com/mharoon1578/echo-voice-agent)
+- 🔗 GitHub Repo: [github.com/mharoon1578/echo-voice-agent](https://github.com/mharoon1578/echo-voice-agent)
 - 🎬 Demo Video: [Watch here](#)
 
 ---
